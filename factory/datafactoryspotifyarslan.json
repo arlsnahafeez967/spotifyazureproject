@@ -1,9 +1,0 @@
-{
-	"name": "datafactoryspotifyarslan",
-	"location": "eastus",
-	"identity": {
-		"type": "SystemAssigned",
-		"principalId": "aa8ea518-8ade-46f8-b857-81991923bb3b",
-		"tenantId": "c0138369-2417-4908-b974-d46ac999962a"
-	}
-}
