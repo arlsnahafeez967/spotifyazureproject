@@ -11,7 +11,7 @@
 			"location": {
 				"type": "AzureBlobFSLocation",
 				"fileName": "cdc.json",
-				"folderPath": "@{pipeline().parameters.table}_cdc",
+				"folderPath": "@{item().table}_cdc",
 				"fileSystem": "bronze"
 			}
 		},
